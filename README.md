@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# campus_connect
-=======
+
 # CampusConnect
 
 A B2B recruitment coordination platform where company HR teams and college TPOs communicate and plan campus recruitment drives.
@@ -40,4 +38,4 @@ The login screen provides a mock authentication flow. You can select your role (
 - **Drive Scheduling**: Coordinate interview dates and assessment rounds.
 - **Contextual Chat**: Secure 2-pane chat tied to specific recruitment requests.
 - **Admin Verification**: Built-in panel for verifying or rejecting profiles.
->>>>>>> 2c09d5b (Initial commit)
+
